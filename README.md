@@ -6,7 +6,7 @@ In this project, I sought to uncover meaningful relationships within various cus
 Uncover more information about sales patterns. Perform an initial data and exploratory analysis to derive insights and suggest strategies for better segmentation based on
 the provided criteria. Present findings in an Excel Report.
 
-Visualizations & Report
+## Visualizations & Report
 [Instacart Excel Report](https://github.com/fa-andersen/Instacart/tree/main/04%20Analysis/Reports)
 
 ## Key Questions
