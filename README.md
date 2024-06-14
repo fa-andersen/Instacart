@@ -49,7 +49,5 @@ With insights from the analysis, I created recommendations to enhance Instacart'
 ## Data
 The Instacart Online Grocery Shopping Dataset from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle.
 
-## Folders
-
 ## Additional Information
 Instacart is a real company that’s made their data available online. However, CareerFoundry has fabricated the project brief for students.
