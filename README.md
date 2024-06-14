@@ -7,7 +7,7 @@ Uncover more information about sales patterns. Perform an initial data and explo
 the provided criteria. Present findings in an Excel Report.
 
 Visualizations & Report
-[Instacart Excel Report]([(https://github.com/fa-andersen/Instacart/tree/main/04%20Analysis/Reports])
+[Instacart Excel Report](https://github.com/fa-andersen/Instacart/tree/main/04%20Analysis/Reports)
 
 ## Key Questions
 1. What are the busiest/slowest days of the week and hours of the day for orders?
